@@ -1,0 +1,15 @@
+C:\Users\lzila\source\repos\FormatUygulaması\FormatUygulaması\bin\Debug\net6.0\FormatUygulaması.exe
+C:\Users\lzila\source\repos\FormatUygulaması\FormatUygulaması\bin\Debug\net6.0\FormatUygulaması.deps.json
+C:\Users\lzila\source\repos\FormatUygulaması\FormatUygulaması\bin\Debug\net6.0\FormatUygulaması.runtimeconfig.json
+C:\Users\lzila\source\repos\FormatUygulaması\FormatUygulaması\bin\Debug\net6.0\FormatUygulaması.dll
+C:\Users\lzila\source\repos\FormatUygulaması\FormatUygulaması\bin\Debug\net6.0\FormatUygulaması.pdb
+C:\Users\lzila\source\repos\FormatUygulaması\FormatUygulaması\obj\Debug\net6.0\FormatUygulaması.csproj.AssemblyReference.cache
+C:\Users\lzila\source\repos\FormatUygulaması\FormatUygulaması\obj\Debug\net6.0\FormatUygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lzila\source\repos\FormatUygulaması\FormatUygulaması\obj\Debug\net6.0\FormatUygulaması.AssemblyInfoInputs.cache
+C:\Users\lzila\source\repos\FormatUygulaması\FormatUygulaması\obj\Debug\net6.0\FormatUygulaması.AssemblyInfo.cs
+C:\Users\lzila\source\repos\FormatUygulaması\FormatUygulaması\obj\Debug\net6.0\FormatUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\lzila\source\repos\FormatUygulaması\FormatUygulaması\obj\Debug\net6.0\FormatUygulaması.dll
+C:\Users\lzila\source\repos\FormatUygulaması\FormatUygulaması\obj\Debug\net6.0\refint\FormatUygulaması.dll
+C:\Users\lzila\source\repos\FormatUygulaması\FormatUygulaması\obj\Debug\net6.0\FormatUygulaması.pdb
+C:\Users\lzila\source\repos\FormatUygulaması\FormatUygulaması\obj\Debug\net6.0\FormatUygulaması.genruntimeconfig.cache
+C:\Users\lzila\source\repos\FormatUygulaması\FormatUygulaması\obj\Debug\net6.0\ref\FormatUygulaması.dll
